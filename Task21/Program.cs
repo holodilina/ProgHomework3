@@ -15,6 +15,8 @@ double y1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("z1: ");
 double z1 = Convert.ToDouble(Console.ReadLine());
 
+Console.Write("\n\n");
+
 Console.Write("x2: ");
 double x2 = Convert.ToDouble(Console.ReadLine());
 
